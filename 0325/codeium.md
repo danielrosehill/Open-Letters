@@ -1,12 +1,4 @@
----
-title: '"Vibe Coding" - The Frustrated Users Chafed By The Vast Gulf Between Product And Marketing In This AI Hotspot'
-subtitle: 'When the gap between marketing promises and actual product capabilities grows too wide, users are left wondering if they're using the same product being advertised.'
-date: '2025-03-24'
-tags: ['AI', 'Code Generation', 'Codeium', 'Developer Tools', 'Technology', 'Windsurf IDE', 'User Experience']
-slug: 'open-letter-codeium-when-ai-code-generation-promise-meets-reality'
-coverImage: '/images/codeium/cover.jpg'
-ogImage: '/images/codeium/cover.jpg'
----
+![alt text](../images/codeium/cover.jpg)
 
 ## Dear Codeium Team
 
@@ -117,18 +109,3 @@ I believe that with some differences in how you relate to your users, this trust
 With best wishes,
 
 Daniel
-
----
-
-<div className="share-section">
-  <h4>Share this open letter:</h4>
-  <ul className="share-buttons">
-    <li><a href="https://twitter.com/intent/tweet?text=An Open Letter to Codeium: When AI Code Generation Promise Meets Reality&url=https://heyitworks.com/blog/open-letter-codeium-when-ai-code-generation-promise-meets-reality" target="_blank">Share on Twitter</a></li>
-    <li><a href="https://www.linkedin.com/shareArticle?mini=true&url=https://heyitworks.com/blog/open-letter-codeium-when-ai-code-generation-promise-meets-reality&title=An Open Letter to Codeium: When AI Code Generation Promise Meets Reality" target="_blank">Share on LinkedIn</a></li>
-    <li><a href="https://www.reddit.com/submit?url=https://heyitworks.com/blog/open-letter-codeium-when-ai-code-generation-promise-meets-reality&title=An Open Letter to Codeium: When AI Code Generation Promise Meets Reality" target="_blank">Share on Reddit</a></li>
-  </ul>
-</div>
-
-<div className="related-tags">
-  <p><strong>Related topics:</strong> <a href="/tags/ai">#AI</a> <a href="/tags/code-generation">#CodeGeneration</a> <a href="/tags/developer-tools">#DeveloperTools</a> <a href="/tags/user-experience">#UserExperience</a></p>
-</div>
