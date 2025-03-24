@@ -32,9 +32,7 @@ However, my opposition to describing myself as a newbie "vibe coder" runs much d
 
 While I, as much as anyone else, would love to open up a beer and let my creative energy flow effortlessly into the IDE, I know from experience that in reality I would need to interrupt my reverie in a few minutes to unstick Cascade from its latest bout of "stickiness." I would have something unbecoming of me like *"WTF!? CAN'T YOU SEE I'M TRYING TO VIBE CODE?! JUST MAKE IT HAPPEN!*"
 
-> AI code generation should be about democratizing technology creation, not just marketing the next shiny feature. When the gap between promises and reality grows too wide, we lose credibility. #AICodeGeneration #Codeium #DeveloperExperience
-
-## Growing Disconnect Between Marketing and User Experience
+ ## Growing Disconnect Between Marketing and User Experience
 
 As is the norm in online communities my lack of real-world friends who have ever heard about a thing called "Windsurf IDE" is offset by passionate online communities on Reddit and Discord where those using the tool and excited about its growth exchange notes, workarounds and best practices.
 
